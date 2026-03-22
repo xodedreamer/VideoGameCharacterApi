@@ -3,7 +3,6 @@ using Scalar.AspNetCore;
 using VideoGameCharacterApi.Services;
 using VideoGameCharacterApi.Data;
 using Microsoft.EntityFrameworkCore;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
